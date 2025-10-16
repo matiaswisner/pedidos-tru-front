@@ -1,3 +1,8 @@
+plugins {
+    id 'com.android.application'
+    id 'org.jetbrains.kotlin.android' // si usás Kotlin
+}
+
 repositories {
         google()
         mavenCentral()
